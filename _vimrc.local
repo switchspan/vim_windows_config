@@ -1,0 +1,7 @@
+" This uses janus-win: https://github.com/fcarriedo/janus-win
+
+" Set the font
+set guifont=Monaco:h18:cANSI
+
+" Set the color
+color molokai
